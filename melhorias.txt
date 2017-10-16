@@ -1,0 +1,3 @@
+expressao regular para verificar "numero , numero "
+se nao houver ganhador
+linha vazia
